@@ -1,0 +1,74 @@
+html {
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.53;
+    height:100%
+}
+
+body {
+    text-align: center;
+    padding: 0;
+    margin-top: : 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    background-color: #B4D3FF;
+    color:#2F428F ;
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+    font-family: 'Crimson Text', serif;
+font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight:bolder;
+}
+
+h1 {
+    color: #355E3B;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight:600
+}
+
+h2 {
+    color: #DB5C23;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight:600
+}
+
+h3 {
+    color: #355E3B;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight:bold
+}
+
+p {
+	width: 60%;
+  	border: 0px;
+  	padding: 5px;
+  	margin: auto;
+}
+
+img {
+	width: 85%;
+}
+
+b, strong {
+    font-weight:700
+}
+
+a {
+    color: #000080;
+    text-decoration:none
+}
