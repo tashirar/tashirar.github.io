@@ -23,6 +23,10 @@ font-family: 'Work Sans', sans-serif;
     font-weight:bolder;
 }
 
+.links {
+    text-decoration: underline;
+}
+
 h1 {
     color: #355E3B;
     text-align: center;
@@ -68,7 +72,29 @@ b, strong {
     font-weight:700
 }
 
+.rocket {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dino {
+    width: 170px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+}
+
 a {
-    color: #000080;
-    text-decoration:none
+    color: #355E3B;
+    text-decoration:underline
+}
+  
+a:hover {
+    transition: all .2s linear;
+  color: #5F59F0;
 }
