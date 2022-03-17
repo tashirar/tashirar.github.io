@@ -1,0 +1,118 @@
+html {
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.53;
+    height:100%
+}
+
+.title {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: #BF8D30;
+    padding: 20px;
+    max-width: auto;
+    max-height: auto;
+    overflow: visible;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.pausch {
+width:350px;
+height:auto;
+position: sticky;
+top: 100px;
+left: 400px;
+float: left;
+border-radius: 4px;
+}
+
+.stars {
+    width: 300px;
+    height: auto;
+    position: fixed;
+    top: 180px;
+    left: 20px;
+    float: left;
+}
+
+.rocket {
+ width:200px;
+height:auto;
+position: fixed;
+bottom: 150px;
+right: 10px;
+float: right;
+border-radius: 4px;
+}
+
+.summary {
+  position: sticky;
+    top: 50px;
+    right: 100px;
+    float: right;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: #16325F;
+    padding: 20px;
+    max-width: 400px;
+    max-height: auto;
+    overflow: visible;
+    color: #BF8D30;
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+}
+
+body {
+    text-align: center;
+    padding: 0;
+    margin-top: : 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    background-color: #192A40;
+    color:#BF8D30;
+    font-family: 'Shadows Into Light', cursive;
+font-size: 25px;
+}
+
+p {
+	width: 60%;
+  	border: 0px;
+  	padding: 5px;
+  	margin: auto;
+}
+
+b, strong {
+    font-weight:700
+}
+
+a {
+    color: #000080;
+    text-decoration:none
+}
+
+footer {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+a {
+    color:#355E3B;
+    transition: all .2s linear;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+a:hover {
+    color: #DB5C23;
+}
