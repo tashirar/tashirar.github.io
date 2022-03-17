@@ -54,3 +54,17 @@ justify-content: space-around;
     margin: 2px;
     flex-shrink: 2;
 }
+
+a {
+    text-decoration: underline;
+    color:#355E3B;
+    transition: all .2s linear;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight:bolder;
+}
+a:hover {
+    color: #DB5C23;
+}

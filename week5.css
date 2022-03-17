@@ -105,13 +105,13 @@ a {
 footer {
     font-weight: bolder;
     text-decoration: underline;
+    font-family: 'Work Sans', sans-serif;
 }
 
 a {
     color:#355E3B;
     transition: all .2s linear;
     text-align: center;
-    font-family: 'Playfair Display', serif;
 }
 a:hover {
     color: #DB5C23;
